@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd 777 StarWarsIV
+telnet towel.blinkenlights.nl
